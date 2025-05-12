@@ -48,4 +48,5 @@ Límite de mensajes por segundo por grupo.
 Se necesita instalar esto en consola para que funcione correctamente **pip install PySide6 qasync cryptography pynacl**
 
 
+
 ![foto1](https://github.com/user-attachments/assets/9c6b136b-ece4-4e7e-828c-fee060c37b2b)

@@ -1,4 +1,4 @@
-![foto1](https://github.com/user-attachments/assets/9c6b136b-ece4-4e7e-828c-fee060c37b2b)
+
 ✨ Características de gui_node.py: P2P Secure Chat
 🔐 Seguridad Criptográfica
 🔑 Intercambio de claves seguro (ECDH) mediante X25519.
@@ -42,3 +42,4 @@ Límite de mensajes por segundo por grupo.
 ❌ No usa Tor ni otras redes anónimas (exposición de IP).
 
 📡 Se recomienda usar junto con VPN o herramientas de anonimato de red si se desea mayor privacidad.
+![foto1](https://github.com/user-attachments/assets/9c6b136b-ece4-4e7e-828c-fee060c37b2b)

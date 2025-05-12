@@ -42,5 +42,10 @@ Límite de mensajes por segundo por grupo.
 ❌ No usa Tor ni otras redes anónimas.
 
 📡 Se recomienda usar junto con VPN o herramientas de anonimato de red si se desea mayor privacidad.
+
+
+
 Se necesita instalar esto en consola para que funcione correctamente **pip install PySide6 qasync cryptography pynacl**
+
+
 ![foto1](https://github.com/user-attachments/assets/9c6b136b-ece4-4e7e-828c-fee060c37b2b)
